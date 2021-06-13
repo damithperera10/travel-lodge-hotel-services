@@ -1,0 +1,44 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.idea/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+/bin/
+/target/
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+*.class
+*.war
+*.ear
+test-output/
+.metadata
+bin
+jacoco.exec
+*.jshintrc
+*.log
+*.sql
+*.sqlite
+*.jar
+*.vscode
+*.orig
+*.gradle
